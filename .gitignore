@@ -1,0 +1,8 @@
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfplan
+crash.log
+modules/queueguard/*.zip
+.env
+.DS_Store
